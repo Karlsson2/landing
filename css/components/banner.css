@@ -1,0 +1,27 @@
+.banner{
+  background-image:linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("https://i.insider.com/5d42e0ce100a2402a63a98f6?width=1100&format=jpeg&auto=webp");
+  padding: 120px;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.banner a {
+  display:block;
+  background-color: #4ac76b;
+  border-radius: 30px;
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  margin-top: 20px;
+  width: 100px;
+  text-align: center;
+}
+.banner p {
+  opacity: 0.7;
+  font-size: 20px;
+}
+.banner h1{
+  font-size: 30px
+}
